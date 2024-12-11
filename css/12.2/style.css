@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Noto+Serif+Khitan+Small+Script&display=swap');
+@font-face {
+    font-family:"Gery_Qo" ;
+    src: url(./font/Grey_Qo\,Noto_Serif_Khitan_Small_Script\,Teko/);
+}
+.info {
+    font-size: 32px;
+    font-weight: 900;
+    color:rgb(194, 116, 56);
+    text-align: left;
+    font-family:"Gery_Qo";
+    text-transform:capitalize;
+    line-height: 42px;
+    word-spacing: 32px;
+    letter-spacing: 4px;
+    text-decoration: underline;
+    font-style: italic;
+    text-indent: 400px;
+
+}
+.yashvi {
+    font-size: 32px;
+    font-weight: 500;
+    color:#A02334;
+    text-align: center;
+    font-family: "Grey Qo", cursive;
+}

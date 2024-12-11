@@ -1,0 +1,12 @@
+.frame, .frameimg{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    object-fit: contain;
+    object-position: center;
+}
+.detail::first-letter{
+    font-size: 50px;
+    color: red;
+
+}

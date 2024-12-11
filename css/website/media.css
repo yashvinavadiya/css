@@ -1,0 +1,240 @@
+@media only screen and (max-width:1440px){
+    .header{
+        background-color: black;
+        color: white;
+    }
+    .menulist a{
+      
+        color:white;
+        gap:20px;
+   }
+
+   .d {
+   
+    margin-top: 14%;
+   
+}
+
+}
+
+@media only screen and (max-width:1024px){
+    .header{
+        background-color:white;
+        color: black;
+        font-size: 12px;
+    }
+    .menulist a{
+      
+        color:black;
+        gap:5px;
+        font-size: 17px;
+   }
+   .details {
+    font-size: 15px;
+   
+}
+.detail {
+    padding-left: 30px;
+    padding-bottom: 40PX;
+}
+.review {
+    padding-left: 30px;
+}
+
+.re {
+    
+    padding-left: 30px;
+  
+}
+
+.rev {
+   
+    padding-left: 30px;
+
+
+}
+.checkout {
+    width: 400px;
+}
+
+.but {
+    width: 350px;
+}
+.d {
+  
+    margin-top: 18%;
+    height: 450px;
+}
+
+.deta {
+    font-size: 20px;
+    padding-left: 20px;
+}
+.data
+{
+    padding-left: 20px;
+}
+
+.dta{
+    padding-left: 20px;
+}
+.fot-detail {
+    
+    
+    padding-top: 50px;
+   
+}
+}
+
+@media only screen and (max-width:768px){
+    .header{
+        background-color: black;
+        color: white;
+        font-size: 15px;
+    }
+    .menulist a{
+      
+        color:white;
+        gap:15px;
+        font-size: 15px;
+   }
+
+   
+.main {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    
+}
+
+.box1{
+    width: 200px;
+}
+
+.box2{
+    width: 200px;
+}
+
+
+.box3{
+    width: 200px;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+}
+
+
+.head {
+   
+    font-size: 40px;   
+}
+
+.image1{
+    width: 170px;
+    height: 150px;
+}
+
+.h11{
+    font-size: 30px;
+}
+
+
+.im {
+   width: 300px;
+}
+
+.checkout {
+   
+    width: 300px;
+}
+
+
+.but {
+    height: 30px;
+    width: 250px;
+}
+
+
+.d {
+    
+    margin-top: 25%;
+    height: 400px;
+    width: 300px;
+}
+.name {
+    font-size: 10px;
+}
+.image2{
+    width: 50px;
+    height: 70px;
+}
+
+.bu {
+    right: 11%;
+}
+
+
+.maps{
+    position: relative;
+    left: 130px;
+}
+
+.contact {
+    position: relative;
+    left: 100px;
+}
+}
+
+
+@media only screen and (max-width:576px){
+    .header{
+        background-color: black;
+        color: white;
+        font-size: 10px;
+    }
+    .menulist a{
+      
+        color:white;
+        gap:10px;
+        font-size: 10px;
+   }
+}
+
+
+@media only screen and (max-width:425px){
+    .header{
+        background-color: black;
+        color: white;
+        font-size: 6px;
+    }
+    .menulist a{
+      
+        color:white;
+        gap:5px;
+        font-size: 6px;
+   }
+}
+
+
+@media only screen and (max-width:320px){
+    .header{
+        background-color: black;
+        color: white;
+        font-size: 5px;
+    }
+    .menulist a{
+      
+        color:white;
+        gap:5px;
+        font-size:5px;
+   }
+
+
+
+}
+
+

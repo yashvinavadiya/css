@@ -1,0 +1,32 @@
+@media only screen and (max-width:576px) {
+    .headermenu{
+        display: none;
+    }
+
+    .icon{
+        display: block;
+        font-size: 35px;
+    }
+
+}
+
+@media only screen and (max-width:980px) {
+    .logo{
+        font-size: 25px;
+        padding-top: 30px;
+    }
+    .menuitem a{
+        font-size: 20px;
+    }
+
+}
+@media only screen and (max-width:768px) {
+    .logo{
+        font-size: 25px;
+        padding-top: 30px;
+    }
+    .menuitem a{
+        font-size: 15px;
+    }
+
+}

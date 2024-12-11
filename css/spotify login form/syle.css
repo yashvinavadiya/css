@@ -1,0 +1,70 @@
+.logo{
+    background-color: black;
+    height: 100px;
+    color:green;
+    margin: auto;
+    padding: 20px;
+
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.71);
+}
+.box{
+    text-align: center;
+}
+.link{
+    width: 600px;
+    height: 900px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 10px;
+}
+.but1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius:100px ;
+    text-align: center;
+    word-spacing: 5px;
+}
+.but2{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius:100px ;
+    text-align: center;
+    word-spacing: 5px;
+}
+.but3{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 200px;
+    border-radius:100px ;
+    text-align: center;
+    word-spacing: 5px;
+}
+.form{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    font-size: 20px;
+}
+.em{
+    position: absolute;
+    left: 860px;
+}
+.ps{
+    position: absolute;
+    left: 860px;
+}
+.but{
+    background-color: green;
+    color: black;
+    height: 40px;
+    width: 200px;
+    border-radius: 100px;
+}

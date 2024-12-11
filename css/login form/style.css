@@ -1,0 +1,29 @@
+.form{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    background-color: #E2BFD9;
+    padding: 50px;
+    border: 2px solid;
+    border-radius: 20px;
+    position: relative;
+}
+.form:hover{
+    background-color: #5B99C2;
+    cursor: pointer;
+}
+.formin{
+    position: absolute;
+    top: 100px;
+    left: 90px;
+    right: 50px;
+}
+.button{
+    border-radius: 5px;
+}
+
+.button:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}

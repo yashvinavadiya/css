@@ -1,0 +1,463 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*--header start--*/
+.header{
+    height: 90px;
+    max-width: 100%;
+    background-color: #78B3CE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menuitem{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.listitem a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+}
+/*--header end--*/
+
+/*--home start--*/
+
+.home{
+    background: url(./img/bg\ img.webp);
+   width: 100%;
+   height: 90vh;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   color: white;
+}
+
+.p1{
+    font-size: 24px;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.p{
+  padding-top: 2%;
+  font-weight: bold;
+}
+.p13{
+    padding-top: 2%;
+}
+
+.button{
+    background-color: rgba(255, 166, 0, 0.61);
+    color: white;
+    width: 130px;
+    height: 40px;
+    margin-top: 3%;
+    font-size: 15px;
+
+}
+
+.home1{
+    background: url(./img/img1.webp);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+}
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    padding-top: 10%;
+    gap: 90px;
+}
+.h3{
+    color: orange;
+    font-size: 25px;
+}
+.h1{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 5%;
+}
+.p2{
+    font-size: 20px;
+    padding-top: 5%;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.img2{
+    width: 600px;
+    height: 350px;
+}
+/*--home end--*/
+
+/*--about start--*/
+.abimg{
+    background-image: url(./img/img3.webp);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    position: relative;
+}
+.text1{
+    position: absolute;
+    top: 15%;
+    left: 57%;  
+    font-size: 22px;
+    color: orange;
+    letter-spacing: 4px;
+}
+
+.text2{
+    position: absolute;
+    top: 20%;
+    left: 57%;  
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.text3{
+    position: absolute;
+    top: 33%;
+    left: 57%;  
+    font-size: 20px;
+}
+
+.text4{
+    position: absolute;
+    top: 43%;
+    left: 57%;  
+    font-size: 20px;
+}
+
+.text5{
+    position: absolute;
+    top: 58%;
+    left: 57%;
+    font-size: 20px;  
+}
+
+.bt1{
+    position: absolute;
+    top: 70%;
+    left: 57%;
+    background-color: rgba(255, 166, 0, 0.61);
+    color: white;
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+}
+
+/*--about end--*/
+
+/*--project start--*/
+
+.title1{
+    color: orange;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.title2{
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.project{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 17px;
+    padding-top: 5%;
+}
+/*--project end--*/
+
+/*--services start--*/
+
+.text6{
+    color: orange;
+    font-size: 25px;
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.text7{
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 1%;
+}
+.services{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 5%;
+}
+
+.box1{
+    width: 430px;
+    height: 450px;
+}
+
+.img8{
+    width: 420px;
+    height: 300px;
+}
+
+.h11{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2%;
+    color: orange;
+}
+
+.h11:hover{
+    color: black;
+}
+.p3{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.bt2{
+    background-color: orange;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin-left: 25%;
+   margin-top: 2%;
+   font-size: 20px;
+}
+
+
+.box2{
+    width: 430px;
+    height: 450px;
+}
+
+.img9{
+    width: 420px;
+    height: 300px;
+}
+
+.h12{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2%;
+    color: orange;
+}
+
+.h12:hover{
+    color: black;
+}
+.p4{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.bt2{
+    background-color: orange;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+
+.box3{
+    width: 430px;
+    height: 450px;
+}
+
+.img10{
+    width: 420px;
+    height: 300px;
+}
+
+.h13{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2%;
+    color: orange;
+}
+
+.h13:hover{
+    color: black;
+}
+.p5{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.bt2{
+    background-color: orange;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+
+.box4{
+    width: 430px;
+    height: 450px;
+}
+
+.img11{
+    width: 420px;
+    height: 300px;
+}
+
+.h14{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 2%;
+    color: orange;
+}
+
+.h14:hover{
+    color: black;
+}
+.p6{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.bt2{
+    background-color: orange;
+    color: white;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+/*--services end--*/
+
+/*--bolg start--*/
+
+.blog{
+    background-image: url(./img/img1.webp);
+    width: 100%;
+    height: 70vh;
+    background-size: cover;
+    margin-top: 10%;
+
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px;
+    padding-top: 7%;
+}
+.text8{
+    color: orange;
+    font-size: 25px;
+    letter-spacing: 4px;
+    padding-top: 10%;
+}
+
+.title3{
+    font-weight: bold;
+    font-size: 45px;
+    padding-top: 3%;
+}
+.title4{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 5%;
+}
+
+.p7{
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.img12{
+    width: 600px;
+    height: 400px;
+    padding-top: 5%;
+}
+
+
+/*--blog end--*/
+
+/*--contact start--*/
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 150px;
+}
+
+.text9{
+    color: orange;
+    font-size: 25px;
+    letter-spacing: 4px;
+    padding-top: 35%;
+}
+
+.text10{
+    font-weight: bold;
+    font-size: 45px;
+    padding-top: 3%;
+}
+
+.p8{
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.p9{
+    font-size: 20px;
+    padding-top: 3%;
+}
+
+.p10{
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.p11{
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+.p12{
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+.p13{
+    font-size: 20px;
+    padding-top: 3%;
+}
+
+.maps{
+    padding-top: 20%;
+}
+/*--contact end--*/
